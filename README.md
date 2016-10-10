@@ -22,3 +22,5 @@ http://www.aishack.in/tutorials/artificial-neurons-mccullochpitts-model/
 http://stevenloria.com/tutorial-state-of-the-art-part-of-speech-tagging-in-textblob/
 #Hopfield Network
 http://web.cs.ucla.edu/~rosen/161/notes/hopfield.html
+#Linear Separable
+http://stackoverflow.com/questions/13976565/neural-networks-what-does-linearly-separable-mean
