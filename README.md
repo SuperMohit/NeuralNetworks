@@ -1,4 +1,8 @@
 # NeuralNetworks
+
+#Basic Linear Algebra
+https://www.khanacademy.org/math/linear-algebra/eola-topic
+
 #Perceptrons
 http://stackoverflow.com/questions/28256441/understanding-perceptrons
 #Bias in neural network needed?
