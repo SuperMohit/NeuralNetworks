@@ -20,3 +20,5 @@ http://www.aishack.in/tutorials/artificial-neurons-mccullochpitts-model/
 
 #Perceptron Tagger
 http://stevenloria.com/tutorial-state-of-the-art-part-of-speech-tagging-in-textblob/
+#Hopfield Network
+http://web.cs.ucla.edu/~rosen/161/notes/hopfield.html
