@@ -17,3 +17,6 @@ http://stats.stackexchange.com/questions/63152/what-does-the-hidden-layer-in-a-n
 
 #McCulloh and Pitts Model
 http://www.aishack.in/tutorials/artificial-neurons-mccullochpitts-model/
+
+#Perceptron Tagger
+http://stevenloria.com/tutorial-state-of-the-art-part-of-speech-tagging-in-textblob/
